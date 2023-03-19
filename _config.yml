@@ -29,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://wallingoff.github.io/wallingoff/gallery/"  
-  - JOURNAL: "https://wallingoff.github.io/wallingoff/journal/"
-  - ABOUT: "https://wallingoff.github.io/wallingoff/about/"
+  - GALLERY: "https://wallingoff.github.io//gallery/"  
+  - JOURNAL: "https://wallingoff.github.io/journal/"
+  - ABOUT: "https://wallingoff.github.io/about/"
 # All translation keys
 translations:
  # 404.html
