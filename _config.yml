@@ -35,7 +35,7 @@ comments :
 nav:
   - GALLERY: "https://wallingoff.github.io/wallingoff/gallery/"  
   - JOURNAL: "https://wallingoff.github.io/wallingoff/journal/"
-  - ABOUT: "https://wallingoff.github.io/wallingoff/about/
+  - ABOUT: "https://wallingoff.github.io/wallingoff/about/"
 # All translation keys
 translations:
  # 404.html
