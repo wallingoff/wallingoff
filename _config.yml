@@ -2,11 +2,11 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://wallingoff.github.io"
+baseurl: "/wallingoff"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "wallingoff"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -33,10 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
-
+  - GALLERY: "https://sunbliss.github.io/wallingoff/gallery/"  
+  - JOURNAL: "https://sunbliss.github.io/wallingoff/journal/"
+  - ABOUT: "https://sunbliss.github.io/wallingoff/about/
 # All translation keys
 translations:
  # 404.html
