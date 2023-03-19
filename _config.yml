@@ -4,21 +4,17 @@ email: ""
 description: "Photo Journal"
 url: "https://wallingoff.github.io"
 baseurl: "/"
-facebook_username: ""
-twitter_username: ""
+telegram_username: "wallingoff"
 instagram_username: "wallingoff"
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+github_username:  "wallingoff"
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   WallingOff
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: wallpaper website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
